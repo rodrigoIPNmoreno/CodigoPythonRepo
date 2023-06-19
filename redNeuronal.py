@@ -7,3 +7,4 @@ from keras.layers import Convolution2D
 from keras.layers import MaxPooling2D
 from keras.layers import Flatten #aplanar 
 from keras.layers import Dense #crear capas interconectadas 
+print("puto mau")
